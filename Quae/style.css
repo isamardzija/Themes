@@ -5,7 +5,7 @@
   --ff-poppins: "Poppins", sans-serif;
 
   /* FONT SIZE */
-  --ff-text: min(1.2rem, 2em);
+  --ff-text: 1rem;
   --ff-anchor: 1.1rem;
   --ff-heading: 2rem;
 
@@ -88,7 +88,7 @@ article.blogpost {
 }
 
 article.blogpost > * {
-  width: min(50vw, 60rem);
+  width: min(85vw, 60rem);
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px 0px,
     rgba(0, 0, 0, 0.23) 0px 3px 6px 0px;
 }
