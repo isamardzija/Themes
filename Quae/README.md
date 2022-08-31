@@ -1,5 +1,5 @@
 # Quae Website Theme
-Quae *(search for, seek, strive for)* is a light-weight, fully responsive website made in CSS and vanilla JavaScript.
+Quae *(search for, seek, strive for)* is a light-weight, fully responsive website theme made in CSS and vanilla JavaScript.
 
 **See Quae in action:** https://isamardzija.github.io/Themes/Quae/index.html
 
