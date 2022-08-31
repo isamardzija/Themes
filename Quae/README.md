@@ -14,6 +14,8 @@ Quae shows off what can be achieved with just a speck of CSS and JavaScript. It 
 
 ## Lessons Learned:
 
+The theme layout is a combination of grid and flex! They really do work together beautifuly in order to create responsiveness.
+
 Figured out a neat trick on how Javascript and CSS interact with eachother. I used custom pseudo classes and then accessed them using JavaScript in order to determine how the sidebar should behave.
 
 
