@@ -3,9 +3,10 @@ Quae *(search for, seek, strive for)* is a light-weight, fully responsive websit
 
 **See Quae in action:** https://isamardzija.github.io/Themes/Quae/index.html
 
-![alt tag](http://placecorgi.com/1200/650)
+![neNMQ4clF9](https://user-images.githubusercontent.com/74252988/187767452-7fd5ff33-0528-47df-9bf6-b79c8312ede3.gif)
 
 ## How It's Made:
+
 
 **Tech used:** HTML, CSS, JavaScript
 
