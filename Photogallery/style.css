@@ -1,0 +1,51 @@
+body {
+  height: 100vh;
+}
+
+div.images {
+  display: flex;
+  width: 100%;
+}
+
+div {
+  height: 80%;
+  width: 5vw;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  transition: all 0.2s ease-in;
+  background-size: cover;
+}
+
+div.credits {
+  flex-direction: column;
+}
+
+img {
+  width: min(75vw, 100%);
+  object-fit: cover;
+  height: 100%;
+}
+
+div:hover {
+  flex: 5;
+  height: 95%;
+}
+div.images > div {
+  display: flex;
+  align-items: flex-end;
+}
+.credits-text {
+  font-size: 1.3rem;
+  background-color: rgba(255, 255, 255, 0.628);
+  visibility: hidden;
+  color: black;
+  padding: 0.5rem;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.show-credits {
+  visibility: visible;
+}
